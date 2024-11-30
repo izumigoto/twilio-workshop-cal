@@ -1,0 +1,14 @@
+{
+  "project": {
+    "id": "61dxun",
+    "name": "hello",
+    "creationTs": 1732941207873,
+    "lastModifiedTs": 1732941207873
+  },
+  "graph": {
+    "nodes": []
+  },
+  "customNodeUrls": [
+    "https://storage.googleapis.com/tfweb/visualblocks-github-bundles/@visualblocks/gemini@latest/dist/bundle.js"
+  ]
+}
