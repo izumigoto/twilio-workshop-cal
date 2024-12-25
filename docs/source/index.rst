@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
+Twilio calworkshop's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The Twillio documentation has been moved to Evil.com
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
+download the application for further view evil.file
 .. note::
 
-   This project is under active development.
+   This project is moved to evil.com
+
+Hakcerone/w3shi
+
+S.Lakshmi Vignesh
 
 Contents
 --------
